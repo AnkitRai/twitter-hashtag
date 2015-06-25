@@ -100,10 +100,10 @@ Examples:
 def main():
     
 <<<<<<< HEAD
-    CONSUMER_KEY = 'JckMGEMIejRMC7hoE3d6oRpmj'
-    CONSUMER_SECRET = 'Vh1GSMGetuAvG7EswY0k2rCNls1U0v6hTFAl40dSL4TRQ6mREy'
-    OAUTH_TOKEN = '410357936-w2p40cNA8FpjyFyuJDpmy3js87jo6lPcegsKUUa6'
-    OAUTH_TOKEN_SECRET = 'ceUusyIEvH5EVYFqUIUVXjoiKAY5Dr3dZbOshRN5RSl91'
+    CONSUMER_KEY = ''
+    CONSUMER_SECRET = ''
+    OAUTH_TOKEN = ''
+    OAUTH_TOKEN_SECRET = ''
 =======
     # https://dev.twitter.com/docs/auth/oauth for more information 
     # on Twitter's OAuth implementation.
