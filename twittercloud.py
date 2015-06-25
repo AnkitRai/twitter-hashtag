@@ -45,9 +45,7 @@ stop_count: stops search when the total size of tweets exceeds stop_count.
 
 def clean_statuses(statuses):
     '''
-Takes a list of dictionaries of tweet metadata returned from
-search_twitter() function, and returns a list with all lowercase words
-(no words with #, @, http, or non-alphabetical characters).
+
 
 Parameters:
 statuses: a list of dictionaries of tweet metadata returned from
